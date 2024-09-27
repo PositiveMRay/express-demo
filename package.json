@@ -1,9 +1,20 @@
 {
-  "name": "Express-Demo",
+  "name": "express-demo",
   "description": "Demonstrates using Express and Connect",
-  "version": "0.0.1',
+  "version": "0.0.1",
   "private": "true",
   "dependencies": {
-    "expres": "4.x"
-  }
+    "express": "4.x"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express-demo"
+  },
+  "author": "Melvin Ray",
+  "license": "ISC"
 }
